@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Mark Andrew Soliman
+# Mark Andrew Soliman
 
 ### Full-Stack Web Developer | Software Engineer | Tech Innovator
 
@@ -21,14 +21,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const markAndrew = {
     location: "Calauan, Laguna, Philippines 🇵🇭",
     role: "Full-Stack Web Developer",
     experience: "2+ Years",
-    projectsDelivered: 10+,
     specialties: [
         "End-to-End Web Applications",
         "Cross-Platform Development",
@@ -37,59 +36,56 @@ const markAndrew = {
         "Database Architecture"
     ],
     currentFocus: "Building scalable, user-centric applications",
-    lifePhilosophy: "Turning caffeine into clean code ☕️ → 💻"
+    lifePhilosophy: "Turning caffeine into clean code"
 };
 ```
 
-### 💡 Highlights
+### Highlights
 
-- 🚀 **Delivered 10+ production applications** serving 5000+ concurrent users
-- 🔐 **Security-focused development** with RBAC and multi-factor authentication
-- 🎨 **UX-driven approach** to frontend development with modern frameworks
-- 🌐 **Full-stack expertise** from database design to deployment
-- 📊 **Data-driven decisions** with analytics dashboards and metrics
-- 👥 **Team leadership** coordinating cross-functional teams using Agile practices
+- **Delivered 10+ production applications** serving 5000+ concurrent users
+- **Security-focused development** with RBAC and multi-factor authentication
+- **UX-driven approach** to frontend development with modern frameworks
+- **Full-stack expertise** from database design to deployment
+- **Data-driven decisions** with analytics dashboards and metrics
+- **Team leadership** coordinating cross-functional teams using Agile practices
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🎨 Design Tools
+### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -110,7 +106,7 @@ const markAndrew = {
 
 </div>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
   
@@ -120,17 +116,17 @@ const markAndrew = {
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🚀 Freelance Software Developer / Project Lead
-**TREIS ADIUTOR** | *2021 – Present*
+### Freelance Software Developer / Project Lead
+**FREELANCE GROUP** | *2021 – Present*
 
-- ✅ Delivered **10+ full-stack systems** across web, Android, and Windows platforms
-- 🔒 Implemented **RBAC & multi-factor authentication** for enterprise-grade security
-- 📊 Built **analytics dashboards** that drove data-informed feature prioritization
-- 🌐 Engineered **cross-platform solutions** supporting **5000+ concurrent users**
-- 🔄 Led **20+ end-to-end project lifecycles** with on-time, on-budget delivery
-- 🤝 Coordinated cross-functional teams using **Git/GitHub** and **Agile practices**
+- Delivered **various full-stack systems** across web, Android, and Windows platforms
+- Implemented **RBAC & multi-factor authentication** for enterprise-grade security
+- Built **analytics dashboards** that drove data-informed feature prioritization
+- Engineered **cross-platform solutions** supporting **5000+ concurrent users**
+- Led **20+ end-to-end project lifecycles** with on-time, on-budget delivery
+- Coordinated cross-functional teams using **Git/GitHub** and **Agile practices**
 
 ---
 
@@ -144,7 +140,7 @@ const markAndrew = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   
@@ -154,17 +150,17 @@ const markAndrew = {
 
 ---
 
-## 🎯 Current Goals for 2025
+## Current Goals for 2025
 
-- 🔥 Contributing to more **open-source projects**
-- 📚 Mastering **advanced system design patterns**
-- 🌟 Building **SaaS applications** with modern tech stacks
-- 🤝 Collaborating with **global development teams**
-- 📝 Sharing knowledge through **technical blog posts**
+- Contributing to more **open-source projects**
+- Mastering **advanced system design patterns**
+- Building **SaaS applications** with modern tech stacks
+- Collaborating with **global development teams**
+- Sharing knowledge through **technical blog posts**
 
 ---
 
-## 💬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -172,7 +168,7 @@ const markAndrew = {
 
 [![LinkedIn](https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markandrewsoliman/)
 [![Email](https://img.shields.io/badge/-Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markandrewsoliman@outlook.com)
-[![Portfolio](https://img.shields.io/badge/-View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrkndrwslmn)
+[![Portfolio](https://img.shields.io/badge/-View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://mrkndrwslmn.dev)
 
 </div>
 
@@ -180,7 +176,7 @@ const markAndrew = {
 
 <div align="center">
   
-### ⭐ "*Crafting elegant solutions to complex problems, one commit at a time.*" ⭐
+### "*Crafting solutions to complex problems, one commit at a time.*" 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
@@ -188,15 +184,14 @@ const markAndrew = {
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on **UNIMERCE (E-commerce Platform)**
-- 🌱 I’m learning **Flask, Firebase, and Android Studio**
-- 💬 Ask me about **Python, Java, or Database Design**
-- ⚡ Fun fact: *I turn caffeine into code ☕*
+### About Me
+- I’m currently working on **NOVA (E-commerce Platform)** & **PEMS (Project Management Platform)**
+- Ask me about **Python, Java, or Database Design**
+- Fun fact: *I turn caffeine into code*
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,mysql,html,css,js,androidstudio,vscode,github" />
@@ -204,7 +199,7 @@ const markAndrew = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrkndrwslmn&show_icons=true&theme=tokyonight" height="150"/>
@@ -217,14 +212,14 @@ const markAndrew = {
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrkndrwslmn&theme=discord&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/markandrewsoliman/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:markandrewsoliman@outlook.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
