@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer | Software Engineer | Tech Innovator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cross-Platform+Specialist+%F0%9F%93%B1;2%2B+Years+of+Experience;10%2B+Production+Applications;Building+Scalable+Solutions+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cross-Platform+Specialist+%F0%9F%93%B1;2%2B+Years+of+Experience;10%2B+Production+Applications;Building+Scalable+Solutions+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/markandrewsoliman/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
