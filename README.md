@@ -28,25 +28,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkAndrewSooo&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkAndrewSooo&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrkndrwslmn&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkndrwslmn&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAndrewSooo&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkndrwslmn&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarkAndrewSooo&theme=discord&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrkndrwslmn&theme=discord&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/markandrewsoliman/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:markandrewsoliman@outlook.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
