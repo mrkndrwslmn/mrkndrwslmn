@@ -34,16 +34,18 @@ I'm **looking for an internship (OJT)** with a team that builds software people 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/1nonlylemm/DILG-PDMU-Workspace">PDMU Workspace</a></b><br>
+      <b>PDMU Workspace</b><br>
       <sub>LSPU capstone for DILG Laguna</sub><br><br>
       Compliance monitoring across 30 LGUs: OCR-assisted document matching with human approval, 15-day non-compliance notices and a hash-linked audit trail. 10 IT professionals ran 147 test steps with a 100% pass rate; 36 staff rated it 4.30/5. I wrote 359 of 372 commits.<br><br>
-      <code>Flask</code> <code>React</code> <code>PostgreSQL</code> <code>Celery</code> <code>Redis</code> <code>Docker</code>
+      <code>Flask</code> <code>React</code> <code>PostgreSQL</code> <code>Celery</code> <code>Redis</code> <code>Docker</code><br><br>
+      <a href="https://1nonlylemm.github.io/DILG-PDMU-Workspace/">Project site ↗</a> · <a href="https://github.com/1nonlylemm/DILG-PDMU-Workspace">Code ↗</a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mrkndrwslmn/Project-Executions-and-Management-System">Project Execution &amp; Management System</a></b><br>
+      <b>Project Execution &amp; Management System</b><br>
       <sub>Team of three · public code</sub><br><br>
       Clients request services and pay through Maya; providers deliver with tasks, time tracking and wallet payouts. Role-based access control throughout. I wrote 94 of the 115 commits.<br><br>
-      <code>Maya payments</code> <code>RBAC</code>
+      <code>Maya payments</code> <code>RBAC</code><br><br>
+      <a href="https://github.com/mrkndrwslmn/Project-Executions-and-Management-System">Code ↗</a>
     </td>
   </tr>
   <tr>
@@ -62,15 +64,17 @@ I'm **looking for an internship (OJT)** with a team that builds software people 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>MBDC</b><br>
+      <b><a href="https://mbdc.ph/">MBDC</a></b><br>
       <sub>Client work · franchise site + lead database</sub><br><br>
       Marketing site with spam-protected inquiry forms, plus an internal lead database where agents see only their own leads. Built in Node.js first, rebuilt in Laravel, delivered in about a month.<br><br>
-      <code>Laravel</code> <code>Node.js</code> <code>SQLite</code> <code>DigitalOcean</code>
+      <code>Laravel</code> <code>Node.js</code> <code>SQLite</code> <code>DigitalOcean</code><br><br>
+      <a href="https://mbdc.ph/">Live site ↗</a>
     </td>
     <td width="50%" valign="top">
-      <b>Singy</b><br>
+      <b><a href="https://karaoke.mrkndrwslmn.tech/">Singy</a></b><br>
       <sub>Karaoke party web app</sub><br><br>
-      A host opens a room on the TV, guests join from their phones with a 4-letter code or QR code, and everyone's picks go into one live queue.
+      A host opens a room on the TV, guests join from their phones with a 4-letter code or QR code, and everyone's picks go into one live queue.<br><br>
+      <a href="https://karaoke.mrkndrwslmn.tech/">Live app ↗</a>
     </td>
   </tr>
 </table>
@@ -93,11 +97,30 @@ I'm **looking for an internship (OJT)** with a team that builds software people 
 
 <br>
 
+## 🏅 Tech certifications
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/SSNW9FQLTWKL) | Google | Aug 2026 |
+| [Google UX Design](https://www.coursera.org/account/accomplishments/specialization/RRXGAZR8G0EU) | Google | Apr 2026 |
+| Fundamentals of Machine Learning and AI | AWS | Apr 2026 |
+| [Introduction to CIP](https://learn.opswatacademy.com/certificate/jNmUa7-Yrg) | OPSWAT Academy | Jan 2026 |
+| [JavaScript](https://freecodecamp.org/certification/fcc93f12bfc-99bc-4a92-b0ed-ef8c1439f889/javascript-v9) | freeCodeCamp | Dec 2025 |
+| Microsoft Azure AI Fundamentals | TESDA | Dec 2025 |
+| [Python and Django Framework and HTML 5 Stack](https://www.udemy.com/certificate/UC-79aaa115-4378-467e-80de-8276635b21af/) | Udemy | Nov 2025 |
+| [Introduction to Modern AI](https://www.credly.com/badges/52c8d989-0bf0-4501-85b6-2794569d9168/linked_in_profile) | Cisco | Nov 2025 |
+| [Introduction to Data Science](https://www.credly.com/badges/29120724-59a4-46b8-b200-6f76a801895d/linked_in_profile) | Cisco | Nov 2025 |
+| [Python Essentials 1](https://www.credly.com/badges/8cc2f896-96db-44c2-a391-1c21021dff1c/linked_in_profile) | Cisco | Oct 2025 |
+| [Foundational C# with Microsoft](https://freecodecamp.org/certification/fcc93f12bfc-99bc-4a92-b0ed-ef8c1439f889/foundational-c-sharp-with-microsoft) | freeCodeCamp | Feb 2025 |
+
+<sub>Plus Google Project Management, IBM Agile Explorer, Scrum Basics, Canva Graphic Design and more: <a href="https://mrkndrwslmn.tech/resume">full list on my resume</a>.</sub>
+
+<br>
+
 ## 🎓 Background
 
 - **BS Information Technology**, Laguna State Polytechnic University, College of Computer Studies (4th year)
 - **Freelance full-stack developer**, since 2023: web apps and cross-platform mobile apps for private clients and small businesses
-- **17 certifications** from Google (Data Analytics, UX Design, Project Management), AWS, Cisco, IBM, freeCodeCamp and others. [Full list on my resume](https://mrkndrwslmn.tech/resume)
 
 <br>
 
