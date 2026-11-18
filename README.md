@@ -1,183 +1,116 @@
 <div align="center">
-  
-# Mark Andrew Soliman
 
-### Full-Stack Web Developer | Software Engineer | Tech Innovator
+<a href="https://mrkndrwslmn.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img alt="Mark Andrew Soliman, full-stack developer" src="assets/banner-dark.svg" width="100%">
+  </picture>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Project+Lead;2%2B+Years+of+Experience;10%2B+Production+Applications;Building+Scalable+Solutions)](https://git.io/typing-svg)
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/markandrewsoliman/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:markandrewsoliman@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/mrkndrwslmn"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrkndrwslmn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mrkndrwslmn?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+[![Portfolio](https://img.shields.io/badge/portfolio-mrkndrwslmn.tech-ff4b2b?style=flat-square&labelColor=0a0a0b)](https://mrkndrwslmn.tech)
+[![LinkedIn](https://img.shields.io/badge/linkedin-markandrewsoliman-0a66c2?style=flat-square&labelColor=0a0a0b)](https://www.linkedin.com/in/markandrewsoliman/)
+[![Email](https://img.shields.io/badge/email-markandrewsoliman%40outlook.com-ecebe6?style=flat-square&labelColor=0a0a0b)](mailto:markandrewsoliman@outlook.com)
+[![Open to OJT](https://img.shields.io/badge/status-open%20to%20OJT-34d399?style=flat-square&labelColor=0a0a0b)](#-lets-talk)
 
 </div>
 
----
+<br>
 
-## About Me
+## 👋 Hi, I'm Mark
 
-```typescript
-const markAndrew = {
-    location: "Calauan, Laguna, Philippines 🇵🇭",
-    role: "Full-Stack Web Developer",
-    experience: "2+ Years",
-    specialties: [
-        "End-to-End Web Applications",
-        "Cross-Platform Development",
-        "Authentication & RBAC Systems",
-        "API Integration & Development",
-        "Database Architecture"
-    ],
-    currentFocus: "Building scalable, user-centric applications",
-    lifePhilosophy: "Turning caffeine into clean code"
-};
-```
+I'm a fourth-year BSIT student at **Laguna State Polytechnic University** in Calauan, Laguna. Since 2023 I've built **fifteen full-stack projects**: marketplaces, management systems, mobile apps and a logistics platform. Some were coursework, others were for private clients and small businesses.
 
-### Highlights
+I plan the database and the user roles before the first screen, put a working prototype in front of the client early, and use Git on every project, including the small ones.
 
-- **Delivered 10+ production applications** serving 5000+ concurrent users
-- **Security-focused development** with RBAC and multi-factor authentication
-- **UX-driven approach** to frontend development with modern frameworks
-- **Full-stack expertise** from database design to deployment
-- **Data-driven decisions** with analytics dashboards and metrics
-- **Team leadership** coordinating cross-functional teams using Agile practices
+I'm **looking for an internship (OJT)** with a team that builds software people use every day.
 
----
+<br>
 
-## Tech Stack
+## 🗂 Selected work
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-
----
-
-## GitHub Analytics
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/1nonlylemm/DILG-PDMU-Workspace">PDMU Workspace</a></b><br>
+      <sub>LSPU capstone for DILG Laguna</sub><br><br>
+      Compliance monitoring across 30 LGUs: OCR-assisted document matching with human approval, 15-day non-compliance notices and a hash-linked audit trail. 10 IT professionals ran 147 test steps with a 100% pass rate; 36 staff rated it 4.30/5. I wrote 359 of 372 commits.<br><br>
+      <code>Flask</code> <code>React</code> <code>PostgreSQL</code> <code>Celery</code> <code>Redis</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/mrkndrwslmn/Project-Executions-and-Management-System">Project Execution &amp; Management System</a></b><br>
+      <sub>Team of three · public code</sub><br><br>
+      Clients request services and pay through Maya; providers deliver with tasks, time tracking and wallet payouts. Role-based access control throughout. I wrote 94 of the 115 commits.<br><br>
+      <code>Maya payments</code> <code>RBAC</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>NOVA</b><br>
+      <sub>Team lead · multi-vendor marketplace</sub><br><br>
+      A tech marketplace for LSPU with a Flask web app, a Flutter mobile app and a delivery-rider module, built around a green-seller program and mindful-shopping prompts. I led the team and handled the database architecture.<br><br>
+      <code>Flask</code> <code>Flutter</code> <code>Leaflet</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Creators' Freelance Marketplace</b><br>
+      <sub>Marketplace · payments</sub><br><br>
+      Connects Filipino UGC creators, designers and influencers with brands: project briefs, escrow-protected payments, paid subscriptions and content moderation.<br><br>
+      <code>Escrow</code> <code>Subscriptions</code> <code>Moderation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>MBDC</b><br>
+      <sub>Client work · franchise site + lead database</sub><br><br>
+      Marketing site with spam-protected inquiry forms, plus an internal lead database where agents see only their own leads. Built in Node.js first, rebuilt in Laravel, delivered in about a month.<br><br>
+      <code>Laravel</code> <code>Node.js</code> <code>SQLite</code> <code>DigitalOcean</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Singy</b><br>
+      <sub>Karaoke party web app</sub><br><br>
+      A host opens a room on the TV, guests join from their phones with a 4-letter code or QR code, and everyone's picks go into one live queue.
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrkndrwslmn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkndrwslmn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+
+**[See all fifteen projects →](https://mrkndrwslmn.tech/projects)**
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkndrwslmn&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+<br>
 
-</div>
+## 🧰 What I build with
 
-<div align="center">
+| | |
+|---|---|
+| **Strongest** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Comfortable** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Also used** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrkndrwslmn&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+<br>
 
-</div>
+## 🎓 Background
 
-### GitHub Trophies
+- **BS Information Technology**, Laguna State Polytechnic University, College of Computer Studies (4th year)
+- **Freelance full-stack developer**, since 2023: web apps and cross-platform mobile apps for private clients and small businesses
+- **17 certifications** from Google (Data Analytics, UX Design, Project Management), AWS, Cisco, IBM, freeCodeCamp and others. [Full list on my resume](https://mrkndrwslmn.tech/resume)
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=mrkndrwslmn&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<br>
 
-</div>
+## 📬 Let's talk
 
----
-
-## Professional Experience
-
-### Freelance Software Developer / Project Lead
-**FREELANCE GROUP** | *2021 – Present*
-
-- Delivered **various full-stack systems** across web, Android, and Windows platforms
-- Implemented **RBAC & multi-factor authentication** for enterprise-grade security
-- Built **analytics dashboards** that drove data-informed feature prioritization
-- Engineered **cross-platform solutions** supporting **5000+ concurrent users**
-- Led **20+ end-to-end project lifecycles** with on-time, on-budget delivery
-- Coordinated cross-functional teams using **Git/GitHub** and **Agile practices**
-
----
-
-## Education
-
-**Bachelor of Science in Information Technology (BSIT)**  
-*Laguna State Polytechnic University – Sta. Cruz, Laguna* | 2023
-
-**Accountancy, Business, and Management (ABM)**  
-*TRACE College – Los Banos, Laguna* | 2021 - 2023
-
----
-
-## Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-contribution-stats.vercel.app/api/?username=mrkndrwslmn" alt="Contribution Stats"/>
-
-</div>
-
----
-
-## Current Goals for 2025
-
-- Contributing to more **open-source projects**
-- Mastering **advanced system design patterns**
-- Building **SaaS applications** with modern tech stacks
-- Collaborating with **global development teams**
-- Sharing knowledge through **technical blog posts**
-
----
-
-## Let's Connect!
+Hiring an intern, or have a system to build? Email me what you need and I'll reply quickly.
 
 <div align="center">
 
-**Open for collaborations, freelance projects, and full-time opportunities!**
+[![Email me](https://img.shields.io/badge/Email%20me-ff4b2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markandrewsoliman@outlook.com)
+[![View portfolio](https://img.shields.io/badge/View%20portfolio-0a0a0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrkndrwslmn.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markandrewsoliman/)
 
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markandrewsoliman/)
-[![Email](https://img.shields.io/badge/-Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markandrewsoliman@outlook.com)
-[![Portfolio](https://img.shields.io/badge/-View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://mrkndrwslmn.dev)
-
-</div>
-
----
-
-<div align="center">
-  
-### "*Crafting solutions to complex problems, one commit at a time.*" 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<sub>Calauan, Laguna, Philippines · GMT+8</sub>
 
 </div>

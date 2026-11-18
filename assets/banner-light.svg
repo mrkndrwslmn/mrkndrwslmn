@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mark Andrew Soliman, full-stack developer">
+  <rect width="1200" height="360" rx="14" fill="#f4f2ec"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="14" fill="none" stroke="rgba(19,19,18,0.16)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <circle cx="44" cy="40" r="6" fill="#cc3419"/><circle cx="66" cy="40" r="6" fill="#5b5a55" opacity=".5"/><circle cx="88" cy="40" r="6" fill="#5b5a55" opacity=".25"/>
+    <text x="1156" y="45" text-anchor="end" font-size="14" fill="#5b5a55" letter-spacing="1.5">CALAUAN, PH · GMT+8</text>
+    <text x="64" y="150" font-size="18" fill="#cc3419" letter-spacing="3">FULL-STACK DEVELOPER</text>
+  </g>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="226" font-size="78" font-weight="700" fill="#131312" letter-spacing="-2">Mark Andrew Soliman</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="64" y="282" font-size="20" fill="#5b5a55">I build the whole system, from the screen to the database.</text>
+    <text x="64" y="316" font-size="16" fill="#5b5a55" opacity=".8">4th-year BSIT · LSPU · looking for an internship (OJT)</text>
+    <rect x="768" y="265" width="11" height="20" fill="#cc3419"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
